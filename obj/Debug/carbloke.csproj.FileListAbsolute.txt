@@ -1,0 +1,11 @@
+C:\Users\henryconfos\source\repos\carbloke\carbloke\bin\Debug\carbloke.exe.config
+C:\Users\henryconfos\source\repos\carbloke\carbloke\bin\Debug\carbloke.exe
+C:\Users\henryconfos\source\repos\carbloke\carbloke\bin\Debug\carbloke.pdb
+C:\Users\henryconfos\source\repos\carbloke\carbloke\obj\Debug\carbloke.csprojResolveAssemblyReference.cache
+C:\Users\henryconfos\source\repos\carbloke\carbloke\obj\Debug\carbloke.Form1.resources
+C:\Users\henryconfos\source\repos\carbloke\carbloke\obj\Debug\carbloke.Properties.Resources.resources
+C:\Users\henryconfos\source\repos\carbloke\carbloke\obj\Debug\carbloke.csproj.GenerateResource.Cache
+C:\Users\henryconfos\source\repos\carbloke\carbloke\obj\Debug\carbloke.csproj.CoreCompileInputs.cache
+C:\Users\henryconfos\source\repos\carbloke\carbloke\obj\Debug\carbloke.exe
+C:\Users\henryconfos\source\repos\carbloke\carbloke\obj\Debug\carbloke.pdb
+C:\Users\henryconfos\source\repos\carbloke\carbloke\obj\Debug\carbloke.Form2.resources
